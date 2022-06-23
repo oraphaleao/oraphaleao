@@ -1,8 +1,8 @@
 ### Hi 👋, I"m Raphael;
 
-https://github-readme-stats.vercel.app/api?username=oraphaleao&show_icons=true&theme=react&include_all_commits=true&count_private=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=oraphaleao&layout=compact&langs_count=7&theme=react
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oraphaleao/oraphaleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
