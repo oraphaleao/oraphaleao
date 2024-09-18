@@ -4,7 +4,7 @@
 
 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oraphaleao&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oraphaleao&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oraphaleao&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,github,git,js,jquery,html,css,bootstrap,flutter,dart,php,java,kotlin,spring,cs,mysql,androidstudio,vscode,eclipse)](https://skillicons.dev)
